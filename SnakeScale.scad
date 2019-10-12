@@ -1,0 +1,1 @@
+scale ([.14,.14,.14]) translate([5,7,0]) import (file = "featheredsnake.stl");
